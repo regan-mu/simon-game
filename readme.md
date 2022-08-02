@@ -1,7 +1,6 @@
 # The Simon Game 
-This is a simple simon game built with jQuery.
+This is a simple simon game built with HTML, CSS & jQuery.
 
-Here's the url for the game. You can try it out.
-http://simon-game.epizy.com/?i=1
+* Checkout [Live Demo](https://github.com/regan-mu/simon-game)
 
 ![screenshot](./Screenshot.png)
